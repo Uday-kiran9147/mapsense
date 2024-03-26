@@ -1,6 +1,8 @@
 # mapsense
 
 A new Flutter project.
+## NOTE:
+If you notice ```circular indicator``` for long time You just turn on location service then ```restart app```.
 
 ## Getting Started
   ```IN android\app\src\main\res\AndroidManifest.XML ``` file.
@@ -19,4 +21,7 @@ flutter pub get
 ```
 Start application using 
 ```bash 
-flutter run
+flutter run ```
+
+
+
