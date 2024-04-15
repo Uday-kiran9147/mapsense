@@ -24,7 +24,6 @@ Start application using
 flutter run
 ```
 
+<img src="Screenshot_2024-03-25-23-23-02-87_044249b73410b96760cbce24b1415d4d.jpg" width=200>  <img src="Screenshot_2024-03-25-23-44-03-33_044249b73410b96760cbce24b1415d4d.jpg" width=200>
 
 
-
-![screenshot 1](https://github.com/Uday-kiran9147/mapsense/blob/master/Screenshot_2024-03-25-23-23-02-87_044249b73410b96760cbce24b1415d4d.jpg?raw=true) ![screenshot 2](https://github.com/Uday-kiran9147/mapsense/blob/master/Screenshot_2024-03-25-23-44-03-33_044249b73410b96760cbce24b1415d4d.jpg?raw=true)
